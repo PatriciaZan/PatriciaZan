@@ -1,4 +1,4 @@
-# Hi, I'm Patricia Zan 👋
+# Hi, I'm Patricia Zan de Oliveira 👋
 <p>I'm a passionate learner and here you can check all my projects from my front-end learning journey😃.</p>
 <p>My joy to computers started many years ago, gaming and messing with softwares was always my hobby. So in 2022 I started to study programing with JAVA, but migrated to Front-end related courses, as I mixed my interest for Design and Programing.</p>
 <p>Today most of my time is used for studying, but you can find me cycling, running and gaming on my free time, I'm a all time chaser of a better version of myself!</p>
