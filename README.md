@@ -7,7 +7,7 @@
 <p align="center">
   <h3>💻Skills</h3>
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,vscode,figma" />
+      <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,vscode,figma" />
     </a>
   <h3>💡 I'm still learning, but know my way</h3>
     <a href="#">
